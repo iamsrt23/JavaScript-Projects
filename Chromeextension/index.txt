@@ -1,0 +1,20 @@
+<!-- Create an input element with type="text" and id="input-el" -->
+        <!-- Create a SAVE INPUT button with id="input-btn" -->
+
+// addEventListner
+
+// Create two variables:
+// myLeads -> should be assigned to an empty array
+// inputEl -> should be assigned to the text input field
+// Push the value "www.awesomelead.com" to myArray when the input button is clicked
+   // Push the value from the inputEl into the myLeads array 
+    // instead of the hard-coded "www.awesomeleads.com" value
+    // Google -> "get value from input field javascript"
+// Log out the items in the myLeads array using a for loop 
+<!-- 1. Create an unordered list element (<ul>) with id="ul-el" -->
+// 2. Grab the unordered list and store it in a const variable called ulEl
+// Render the leads in the unordered list using ulEl.textContent
+// Replace .textContent with .innerHTML and use <li> tags
+// create element
+    // set text content
+    // append to ul
